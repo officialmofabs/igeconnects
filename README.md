@@ -1,8 +1,8 @@
-# GitHub Community Discussions
+# IGE Cloud Connections Discussions
 
-In this repository, you will find categories for various product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
+In this repository, you will find categories for various product and service areas. Feel free to share feedback, discuss topics with other connection members, or ask questions.
 
-## Product Feedback
+## Feedback
 
 | **Feedback Category** | **About the Product** 	|
 |---	|---	|
