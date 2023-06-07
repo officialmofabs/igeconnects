@@ -21,7 +21,6 @@ In this repository, you will find categories for various product and service are
 | 📱 [Mobile](https://github.com/orgs/community/discussions/categories/mobile) 	| [GitHub Mobile](https://github.com/mobile) 	|
 | 📦 [Packages](https://github.com/orgs/community/discussions/categories/packages) 	| [GitHub Packages](https://github.com/features/packages) |
 | 🗒️ [Pages](https://github.com/orgs/community/discussions/categories/pages)    | [GitHub Pages](https://docs.github.com/en/pages)  |
-| 📶 [Polls](https://github.com/orgs/community/discussions/categories/polls)  	| [GitHub Polls](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile) 	|
 | 🖼️ [Profile](https://github.com/orgs/community/discussions/categories/profile)  	| [GitHub Profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile) 	|
 | ✔️ [Pull Requests](https://github.com/orgs/community/discussions/categories/pull-requests) 	| [GitHub Pull Requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) 	|
 | 🗳️ [Repositories](https://github.com/orgs/community/discussions/categories/repositories)  	| [GitHub Repositories](https://docs.github.com/en/repositories) 	|
@@ -40,6 +39,8 @@ You will also find previous Discourse Community Forum categories that have since
 | Code to Cloud 	| Actions and Packages |
 | GitHub Ecosystem 	| APIs and Integrations 	|
 | Uncategorized 	| General 	|
+| Software Development 	| Programming Help 	|
+| 	| Machine Learning and ML Ops 	|
 
 When creating a new post, make sure to choose the predetermined category that best fits your topic. This will ensure that conversations are indexed by their corresponding product or feature, to help community members quickly find answers to their questions.
 
